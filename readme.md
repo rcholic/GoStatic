@@ -1,4 +1,4 @@
-### Multiple static path served by Go HTTP Server from different directories
+### Multiple static paths served by Go HTTP Server from different directories
 
 1. This is an experimentation with go http server serving static files/images from different directories on disk. I also tested adding a new static path after starting the server, and surprisingly it works as well :)
 
