@@ -1,0 +1,1 @@
+### this images_path3 directory can be placed outside of the root directory, but you need to provide its actual path to the code in main.go
